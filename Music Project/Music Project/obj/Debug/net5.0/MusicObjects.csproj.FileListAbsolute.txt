@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\MusicObjects.exe
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\MusicObjects.deps.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\MusicObjects.runtimeconfig.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\MusicObjects.runtimeconfig.dev.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\MusicObjects.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\ref\MusicObjects.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\bin\Debug\net5.0\MusicObjects.pdb
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.AssemblyInfo.cs
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\ref\MusicObjects.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.pdb
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Music Project\Music Project\obj\Debug\net5.0\MusicObjects.genruntimeconfig.cache

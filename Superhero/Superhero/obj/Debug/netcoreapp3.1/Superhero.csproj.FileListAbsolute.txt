@@ -1,0 +1,13 @@
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\bin\Debug\netcoreapp3.1\Superhero.exe
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\bin\Debug\netcoreapp3.1\Superhero.deps.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\bin\Debug\netcoreapp3.1\Superhero.runtimeconfig.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\bin\Debug\netcoreapp3.1\Superhero.runtimeconfig.dev.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\bin\Debug\netcoreapp3.1\Superhero.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\bin\Debug\netcoreapp3.1\Superhero.pdb
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.csprojAssemblyReference.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.AssemblyInfo.cs
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.pdb
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\Superhero\Superhero\obj\Debug\netcoreapp3.1\Superhero.genruntimeconfig.cache

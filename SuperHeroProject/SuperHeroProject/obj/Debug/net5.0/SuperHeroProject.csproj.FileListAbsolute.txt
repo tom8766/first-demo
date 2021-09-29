@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\SuperHeroProject.exe
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\SuperHeroProject.deps.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\SuperHeroProject.runtimeconfig.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\SuperHeroProject.runtimeconfig.dev.json
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\SuperHeroProject.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\ref\SuperHeroProject.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\bin\Debug\net5.0\SuperHeroProject.pdb
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.AssemblyInfo.cs
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\ref\SuperHeroProject.dll
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.pdb
+C:\Users\user\OneDrive - De Vinci\Année 3\S5\Objected Programming\SuperHeroProject\SuperHeroProject\obj\Debug\net5.0\SuperHeroProject.genruntimeconfig.cache
